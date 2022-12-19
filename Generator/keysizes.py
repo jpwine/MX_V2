@@ -44,6 +44,10 @@ KEYSIZES_MX = [
         "stabilizer_dist": 50
     },
     {
+        "keysize": 6.5,
+        "stabilizer_dist": 50
+    },
+    {
         "keysize": 7,
         "stabilizer_dist": 57.15
     },
